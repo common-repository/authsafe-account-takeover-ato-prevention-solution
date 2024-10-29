@@ -1,0 +1,26 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#authsafePortletSettings .widefat {
+	border: 0;
+}
+#authsafePortletSettings .ats-portlet {
+	margin: 15px 0 15px 15px;
+}
+#authsafePortletSettings .ats-portlet-title {
+	cursor: pointer;
+	font-size: 16px;
+	margin: 0;
+	padding: 12px 15px;
+}
+#authsafePortletSettings .widefat th {
+	width: 25%;
+	vertical-align: top;
+}
+#authsafePortletSettings .widefat td {
+	vertical-align: top;
+}
+#authsafePortletSettings .ats-radio-inputs {
+	margin-bottom: 7px;
+}
